@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/index.html/static/css/main.401251ec.css",
-    "main.js": "/index.html/static/js/main.5a9ea743.js",
-    "static/js/787.7da95b79.chunk.js": "/index.html/static/js/787.7da95b79.chunk.js",
-    "static/media/MyImage.webp": "/index.html/static/media/MyImage.1ace04b3e7fce43d4f8c.webp",
-    "static/media/Rodolfo Resume.pdf": "/index.html/static/media/Rodolfo Resume.803c7b77d67f649f1e9b.pdf",
-    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/index.html/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
-    "static/media/RobotoSlab-Black.ttf": "/index.html/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
-    "static/media/RobotoSlab-Bold.ttf": "/index.html/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
-    "static/media/RobotoSlab-Regular.ttf": "/index.html/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
-    "static/media/GildaDisplay-Regular.ttf": "/index.html/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
-    "static/media/gotosite.webp": "/index.html/static/media/gotosite.dc2459843a8d51a90e5d.webp",
-    "static/media/github.webp": "/index.html/static/media/github.ed1c06d925fff0b57e32.webp",
-    "index.html": "/index.html/index.html",
-    "main.401251ec.css.map": "/index.html/static/css/main.401251ec.css.map",
-    "main.5a9ea743.js.map": "/index.html/static/js/main.5a9ea743.js.map",
-    "787.7da95b79.chunk.js.map": "/index.html/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/static/css/main.5eac006a.css",
+    "main.js": "/static/js/main.74479dc1.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/MyImage.webp": "/static/media/MyImage.1ace04b3e7fce43d4f8c.webp",
+    "static/media/Rodolfo Resume.pdf": "/static/media/Rodolfo Resume.803c7b77d67f649f1e9b.pdf",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/gotosite.webp": "/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/github.webp": "/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/index.html",
+    "main.5eac006a.css.map": "/static/css/main.5eac006a.css.map",
+    "main.74479dc1.js.map": "/static/js/main.74479dc1.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.401251ec.css",
-    "static/js/main.5a9ea743.js"
+    "static/css/main.5eac006a.css",
+    "static/js/main.74479dc1.js"
   ]
 }
