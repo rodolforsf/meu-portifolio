@@ -86,7 +86,7 @@ export default function Resume() {
               mini-projects
             </p>
             <a
-              href="https://www.freecodecamp.org/certification/Daniel_Jebarson/back-end-development-and-apis"
+              href="#"
               target="_blank"
               rel="noreferrer"
               class="inline-flex items-center px-4 py-2 mt-5 text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
@@ -170,8 +170,8 @@ export default function Resume() {
           </div>
 
           <a
-            href={require("../../assets/files/Daniel Resume.pdf")}
-            download={"Dani's Resume"}
+            href={require("../../assets/files/Rodolfo Resume.pdf")}
+            download={"Rodolfo Curriculo"}
             class="inline-flex items-center px-6 py-2 mt-12 mx-auto w-fit text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
           >
             Download CV <DownloadIcon />
