@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/rodolforsf/static/css/main.7b2abd8d.css",
-    "main.js": "/rodolforsf/static/js/main.9e34cee5.js",
-    "static/js/787.7da95b79.chunk.js": "/rodolforsf/static/js/787.7da95b79.chunk.js",
-    "static/media/MyImage.webp": "/rodolforsf/static/media/MyImage.1ace04b3e7fce43d4f8c.webp",
-    "static/media/Rodolfo Resume.pdf": "/rodolforsf/static/media/Rodolfo Resume.803c7b77d67f649f1e9b.pdf",
-    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/rodolforsf/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
-    "static/media/RobotoSlab-Black.ttf": "/rodolforsf/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
-    "static/media/RobotoSlab-Bold.ttf": "/rodolforsf/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
-    "static/media/RobotoSlab-Regular.ttf": "/rodolforsf/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
-    "static/media/GildaDisplay-Regular.ttf": "/rodolforsf/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
-    "static/media/gotosite.webp": "/rodolforsf/static/media/gotosite.dc2459843a8d51a90e5d.webp",
-    "static/media/github.webp": "/rodolforsf/static/media/github.ed1c06d925fff0b57e32.webp",
-    "index.html": "/rodolforsf/index.html",
-    "main.7b2abd8d.css.map": "/rodolforsf/static/css/main.7b2abd8d.css.map",
-    "main.9e34cee5.js.map": "/rodolforsf/static/js/main.9e34cee5.js.map",
-    "787.7da95b79.chunk.js.map": "/rodolforsf/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/rodolforsf/meu-portifolio/static/css/main.00df254c.css",
+    "main.js": "/rodolforsf/meu-portifolio/static/js/main.f7f0c779.js",
+    "static/js/787.7da95b79.chunk.js": "/rodolforsf/meu-portifolio/static/js/787.7da95b79.chunk.js",
+    "static/media/MyImage.webp": "/rodolforsf/meu-portifolio/static/media/MyImage.1ace04b3e7fce43d4f8c.webp",
+    "static/media/Rodolfo Resume.pdf": "/rodolforsf/meu-portifolio/static/media/Rodolfo Resume.803c7b77d67f649f1e9b.pdf",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/rodolforsf/meu-portifolio/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "/rodolforsf/meu-portifolio/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "/rodolforsf/meu-portifolio/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "/rodolforsf/meu-portifolio/static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/GildaDisplay-Regular.ttf": "/rodolforsf/meu-portifolio/static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "static/media/gotosite.webp": "/rodolforsf/meu-portifolio/static/media/gotosite.dc2459843a8d51a90e5d.webp",
+    "static/media/github.webp": "/rodolforsf/meu-portifolio/static/media/github.ed1c06d925fff0b57e32.webp",
+    "index.html": "/rodolforsf/meu-portifolio/index.html",
+    "main.00df254c.css.map": "/rodolforsf/meu-portifolio/static/css/main.00df254c.css.map",
+    "main.f7f0c779.js.map": "/rodolforsf/meu-portifolio/static/js/main.f7f0c779.js.map",
+    "787.7da95b79.chunk.js.map": "/rodolforsf/meu-portifolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b2abd8d.css",
-    "static/js/main.9e34cee5.js"
+    "static/css/main.00df254c.css",
+    "static/js/main.f7f0c779.js"
   ]
 }
