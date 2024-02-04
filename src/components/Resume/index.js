@@ -26,19 +26,16 @@ export default function Resume() {
               </svg>
             </span>
             <h3 class="flex items-center mb-1 text-lg font-semibold  text-white ml-28">
-              AWS Cloud Practioner
+              HTML/CSS
             </h3>
             <time class="block pt-1 pb-3  text-sm font-normal leading-none  text-gray-500">
-              Completed on July 7th, 2023
+              Completo em 09 de Julho de 2023
             </time>
             <p class="mb-4 text-base font-normal  text-gray-400">
-              Provides overall understanding of cloud computing concepts,
-              independent of specific technical roles. It provides a detailed
-              overview of cloud concepts, AWS core services, security,
-              architecture, pricing, and support.
+              Introdução ao HTML5 e CSS3, estrutura básica de documentos HTML, sintaxe e semântica do CSS, uso de tags semânticas, media queries para designs responsivos, flexbox para layouts dinâmicos, seletores CSS (tipo, classe, ID, combinadores), e introdução ao sistema de layout em grade, incluindo suas propriedades.
             </p>
             <a
-              href="https://www.credly.com/badges/bf6b9024-d4f8-465d-b345-d9b0c5a7abab/public_url"
+              href="https://alunos.b7web.com.br/media/certificates/certificado_4088233.jpg"
               target="_blank"
               rel="noreferrer"
               class="inline-flex items-center px-4 py-2 mt-2 text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
@@ -55,7 +52,7 @@ export default function Resume() {
                   clip-rule="evenodd"
                 ></path>
               </svg>{" "}
-              Download Certificate
+              Download Certificado
             </a>
           </li>
           <li class="mb-10" data-aos="zoom-out" data-aos-delay="700">
@@ -75,18 +72,16 @@ export default function Resume() {
               </svg>
             </span>
             <h3 class="mb-1 text-lg font-semibold text-white">
-              BackEnd Development and Apis
+              Javascript
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on May 28th, 2022
+              Completo em 18 de Setembro de 2023
             </time>
             <p class="text-base font-normal text-gray-400">
-              Learned how to write back end apps with Node.js and npm. I also
-              built web applications with the Express framework, and build some
-              mini-projects
+              Fundamentos do JavaScript, incluindo variáveis, tipos de dados, operadores e estruturas de controle, até tópicos avançados como manipulação eficiente do DOM, construção de objetos e introdução à programação orientada a objetos. Também inclui a compreensão de requisições HTTP, manipulação de dados em formato JSON, uso de arrow functions para concisão, exploração de AJAX para requisições assíncronas e técnicas de validação de formulários com implementações customizadas para garantir a integridade dos dados submetidos.
             </p>
             <a
-              href="https://www.google.com.br/"
+              href="https://alunos.b7web.com.br/media/certificates/certificado_4521918.jpg"
               target="_blank"
               rel="noreferrer"
               class="inline-flex items-center px-4 py-2 mt-5 text-sm font-medium border rounded-lg  focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
@@ -103,7 +98,7 @@ export default function Resume() {
                   clip-rule="evenodd"
                 ></path>
               </svg>{" "}
-              Download Certificate
+              Download Certificado
             </a>
           </li>
           <li data-aos="zoom-in" data-aos-offset={"-15"} data-aos-delay="1300">
@@ -123,22 +118,18 @@ export default function Resume() {
               </svg>
             </span>
             <h3 class="mb-1 text-lg font-semibold text-white">
-              Frontend Development Libraries
+              TypeScript
             </h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-500">
-              Completed on December 9, 2022
+              Completo em 20 de Setembro de 2023
             </time>
             <p class="text-base font-normal text-gray-400">
-              Learns how to style your site quickly with Bootstrap. I also learn
-              how to add logic to your CSS styles and extend them with Sass.
-              Later, I also built a shopping cart and other applications to
-              learn how to create powerful Single Page Applications (SPAs) with
-              React and Redux.
+              Sintaxe básica do TypeScript, comparação com JavaScript, declaração de tipos primitivos e estruturados até a criação de interfaces, utilização de tipos avançados, classes, herança e princípios de programação orientada a objetos. Também inclui organização de código em módulos, utilização de namespaces, implementação de generics, configuração do compilador, integração com frameworks, manipulação de operações assíncronas e tratamento de erros em TypeScript.
             </p>
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://www.freecodecamp.org/certification/Daniel_Jebarson/front-end-development-libraries"
+              href="https://alunos.b7web.com.br/media/certificates/certificado_8538462.jpg"
               class="inline-flex items-center px-4 py-2 mt-5 text-sm font-medium border rounded-lg focus:z-10 focus:ring-4 focus:outline-none focus:text-blue-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"
             >
               <svg
@@ -153,7 +144,7 @@ export default function Resume() {
                   clip-rule="evenodd"
                 ></path>
               </svg>{" "}
-              Download Certificate
+              Download Certificado
             </a>
           </li>
         </ol>
@@ -165,8 +156,7 @@ export default function Resume() {
             <BarGraph name={"React"} percent={60} />
             <BarGraph name={"TypeScript"} percent={60} />
             <BarGraph name={"HTML/CSS"} percent={85} />
-            <BarGraph name={"SQL"} percent={60} />
-            <BarGraph name={"AWS"} percent={30} />
+            <BarGraph name={"SQL"} percent={30} />
           </div>
 
           <a

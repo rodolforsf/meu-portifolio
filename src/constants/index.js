@@ -42,8 +42,8 @@ export const projects = [
     code: "https://github.com/daniel-jebarson/web-chat-app",
   },
   {
-    title: "Exploiter(deprecated)",
-    desc: "This is the simple multi-featured discord bot which is in more than 90+ servers that resembles lords mobile as mini game. It contains the featiures of many bots such as dyno,carl-bot,mee6 etc.It helps to authorize the users, audit the messages and can also be used for other server developments and also for mini-games.  ",
+    title: "Nttflix",
+    desc: "Desenvolvimento de um clone do site da Netflix utilizando React, com dados importados da API do TMDB. A cada atualização da página, a mídia exibida no banner é alterada dinamicamente. Ao clicar em um vídeo, é aberto o trailer correspondente do YouTube, proporcionando uma experiência interativa e dinâmica.",
     tags: [
       {
         name: "Python",
@@ -62,7 +62,7 @@ export const projects = [
         color: "blue-800",
       },
     ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109031291522928670/Exploiter.png",
+    img: "../../assets/images/Nttflix.gif",
     link: "https://drive.google.com/file/d/1npEOuOhQh-1zRiLB9fFn-6ORTwd1gZkl/view",
     code: "https://github.com/daniel-jebarson/EXPLOITER",
   },
