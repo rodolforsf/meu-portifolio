@@ -62,7 +62,7 @@ export const projects = [
         color: "blue-800",
       },
     ],
-    img: "../../assets/images/Nttflix.gif",
+    img: "https://github.com/rodolforsf/meu-portifolio/blob/main/src/assets/images/Nttflix.gif",
     link: "https://drive.google.com/file/d/1npEOuOhQh-1zRiLB9fFn-6ORTwd1gZkl/view",
     code: "https://github.com/daniel-jebarson/EXPLOITER",
   },
