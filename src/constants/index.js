@@ -72,7 +72,7 @@ export const projects = [
         color: "green-600",
       },
     ],
-    img: "",
+    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Pokedex.png",
     link: "https://65bfc2a93c6c597f14c657d2--whimsical-frangollo-8dee11.netlify.app/",
     code: "https://github.com/rodolforsf/pokedexDio",
   },
