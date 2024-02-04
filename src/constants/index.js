@@ -29,7 +29,7 @@ export const projects = [
         color: "green-600",
       },
      ],
-    img: "https://user-images.githubusercontent.com/88134306/227576773-06c3a1d2-0a1a-4ab2-8d1f-e06d71408410.png",
+    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Lanchonete-whatsapp.png",
     link: "https://pedido-whatsapp.vercel.app/",
     code: "https://github.com/rodolforsf/pedido-whatsapp",
   },
@@ -47,25 +47,34 @@ export const projects = [
     code: "https://github.com/rodolforsf/nttflix",
   },
   {
-    title: "Stock Market",
-    desc: "Stock Market Website done with ReactJs as Frontend and Express as Backend. This websites gives practice for people those who want to start using stock market. It is based on realtime update of stock value.",
+    title: "Site de lachonete com carrinho",
+    desc: "Site de uma lanchonete com funcionalidade de carrinho, permitindo que os clientes finalizem seus pedidos e enviem uma mensagem para o WhatsApp. O site é desenvolvido utilizando HTML, Javascript e faz uso do Bootstrap para uma interface responsiva e amigável. Essa abordagem oferece uma experiência intuitiva aos usuários, facilitando a navegação, seleção de itens e conclusão dos pedidos por meio do WhatsApp.s.",
     tags: [
       {
-        name: "ReactJs",
+        name: "Javascript",
         color: "red-600",
       },
       {
-        name: "ExpressJs",
+        name: "BootStrap",
         color: "green-600",
       },
+     ],
+    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Lanchonete-whatsapp.png",
+    link: "https://pedido-whatsapp.vercel.app/",
+    code: "https://github.com/rodolforsf/pedido-whatsapp",
+  },
+  {
+    title: "Pokédex",
+    desc: "Desenvolvimento de uma Pokédex online utilizando Angular, dedicada aos entusiastas do desenho Pokémon. A PokeAgenda apresenta uma coleção de 150 Pokémon, oferecendo uma experiência interativa e informativa para os fãs explorarem os detalhes e características de suas criaturas favoritas.",
+    tags: [
       {
-        name: "MongoDB",
-        color: "blue-800",
+        name: "Angular",
+        color: "green-600",
       },
     ],
     img: "",
-    link: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Nttflix.png",
-    code: "https://github.com/daniel-jebarson/Stock-Market",
+    link: "https://65bfc2a93c6c597f14c657d2--whimsical-frangollo-8dee11.netlify.app/",
+    code: "https://github.com/rodolforsf/pokedexDio",
   },
   {
     title: "PolystationStore",
