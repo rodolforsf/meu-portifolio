@@ -46,25 +46,13 @@ export const projects = [
     desc: "Desenvolvimento de um clone do site da Netflix utilizando React, com dados importados da API do TMDB. A cada atualização da página, a mídia exibida no banner é alterada dinamicamente. Ao clicar em um vídeo, é aberto o trailer correspondente do YouTube, proporcionando uma experiência interativa e dinâmica.",
     tags: [
       {
-        name: "Python",
+        name: "ReactJS",
         color: "red-600",
       },
-      {
-        name: "Discord.py",
-        color: "green-600",
-      },
-      {
-        name: "discord-interactions",
-        color: "yellow-600",
-      },
-      {
-        name: "Flask",
-        color: "blue-800",
-      },
     ],
-    img: "https://github.com/rodolforsf/meu-portifolio/blob/main/src/assets/images/Nttflix..png",
-    link: "https://drive.google.com/file/d/1npEOuOhQh-1zRiLB9fFn-6ORTwd1gZkl/view",
-    code: "https://github.com/daniel-jebarson/EXPLOITER",
+    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Nttflix.png",
+    link: "https://nttflix-rodolforsf.vercel.app/",
+    code: "https://github.com/rodolforsf/nttflix",
   },
   {
     title: "Stock Market",
@@ -84,7 +72,7 @@ export const projects = [
       },
     ],
     img: "",
-    link: "https://stock-market-seven.vercel.app/",
+    link: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Nttflix.png",
     code: "https://github.com/daniel-jebarson/Stock-Market",
   },
   {
@@ -113,7 +101,7 @@ export const projects = [
       },
     ],
     img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109035277814611978/Screenshot_19.png",
-    link: "https://github.com/code-cracked/you-farm",
-    code: "https://github.com/code-cracked/you-farm",
+    link: "https://polystation-store-pearl.vercel.app/",
+    code: "https://github.com/rodolforsf/polystation-store",
   },
 ];
