@@ -17,29 +17,21 @@ export const projects = [
     code: "https://github.com/code-cracked/plants-vs-zombies-api",
   },
   {
-    title: "Web-Chat-App",
-    desc: "An app made with NextJs to help each other communicate fastly and securely. We can also search for the friends with their username.Realtime updates on messages.",
+    title: "Site de lachonete com carrinho",
+    desc: "Site de uma lanchonete com funcionalidade de carrinho, permitindo que os clientes finalizem seus pedidos e enviem uma mensagem para o WhatsApp. O site é desenvolvido utilizando HTML, Javascript e faz uso do Bootstrap para uma interface responsiva e amigável. Essa abordagem oferece uma experiência intuitiva aos usuários, facilitando a navegação, seleção de itens e conclusão dos pedidos por meio do WhatsApp.s.",
     tags: [
       {
-        name: "NextJs",
+        name: "Javascript",
         color: "red-600",
       },
       {
-        name: "ChakraUI",
+        name: "BootStrap",
         color: "green-600",
       },
-      {
-        name: "SocketIO",
-        color: "yellow-600",
-      },
-      {
-        name: "MongoDB",
-        color: "blue-800",
-      },
-    ],
+     ],
     img: "https://user-images.githubusercontent.com/88134306/227576773-06c3a1d2-0a1a-4ab2-8d1f-e06d71408410.png",
-    link: "https://web-chat-app-brown.vercel.app",
-    code: "https://github.com/daniel-jebarson/web-chat-app",
+    link: "https://pedido-whatsapp.vercel.app/",
+    code: "https://github.com/rodolforsf/pedido-whatsapp",
   },
   {
     title: "Nttflix",
@@ -76,31 +68,15 @@ export const projects = [
     code: "https://github.com/daniel-jebarson/Stock-Market",
   },
   {
-    title: "You-Farm",
-    desc: "An app made with NextJs, Machine Learning and ExpressJs to help farmers to sell their crops without intermediate. It also suggests which crops are needed for the specific soil.",
+    title: "PolystationStore",
+    desc: "Desenvolvimento de um site para a PolystationStore, uma loja fictícia especializada nos melhores jogos da plataforma Polystation, incluindo os clássicos do Nintendinho. O projeto é construído utilizando Angular, proporcionando uma experiência dinâmica e interativa para os usuários explorarem e adquirirem os jogos favoritos da Polystation..",
     tags: [
       {
-        name: "NextJs",
-        color: "red-600",
-      },
-      {
-        name: "MaterialUI",
+        name: "Angular",
         color: "green-600",
       },
-      {
-        name: "ExpressJs",
-        color: "yellow-600",
-      },
-      {
-        name: "FireBase",
-        color: "blue-800",
-      },
-      {
-        name: "Machine Learning",
-        color: "orange-600",
-      },
     ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109035277814611978/Screenshot_19.png",
+    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/PolyStationStore.png",
     link: "https://polystation-store-pearl.vercel.app/",
     code: "https://github.com/rodolforsf/polystation-store",
   },
