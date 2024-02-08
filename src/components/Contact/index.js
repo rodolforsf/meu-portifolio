@@ -13,16 +13,18 @@ import "react-toastify/dist/ReactToastify.css";
 import * as LottiePlayer from "@lottiefiles/lottie-player";
 import { useState } from "react";
 
+
 export default function Contact() {
   const [mailSent, setMailSent] = useState(false);
   const [loading, setLoading] = useState(false);
   const handleSubmit = (e) => {
     setLoading(true);
     e.preventDefault();
-    const { username, email, message } = e.target.elements;
-    const { REACT_APP_SERVICEID, REACT_APP_TEMPLATE, REACT_APP_PUBLICKEY } =
-      process.env;
 
+
+    const { username, email, message } = e.target.elements;
+    // const { REACT_APP_SERVICEID, REACT_APP_TEMPLATE, REACT_APP_PUBLICKEY } = process.env;
+    
     const templateParams = {
       username: username.value,
       email: email.value,
@@ -31,10 +33,10 @@ export default function Contact() {
 
     emailjs
       .send(
-        REACT_APP_SERVICEID,
-        REACT_APP_TEMPLATE,
+        'portfolioGmail',
+        'template_a1x60l3',
         templateParams,
-        REACT_APP_PUBLICKEY
+        'w81SUnvqJ6oX79_LP'
       )
       .then(
         (response) => {
@@ -157,9 +159,9 @@ export default function Contact() {
                   fill="currentColor"
                 />
               </svg>
-              Sending...
+              Enviando...
             </button>
-            {/* <button
+            { <button
               type="button"
               className={`bg-clr_blue ${
                 loading === true ? "visible" : "hidden"
@@ -167,7 +169,7 @@ export default function Contact() {
               disabled
             >
               Sending...
-            </button> */}
+            </button> }
             <button
               type="button"
               disable={"true"}
@@ -264,3 +266,5 @@ export default function Contact() {
     </div>
   );
 }
+ 
+
