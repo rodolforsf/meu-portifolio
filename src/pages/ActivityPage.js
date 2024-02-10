@@ -5,7 +5,7 @@ import {
   FiberManualRecordSharp,
 } from "@mui/icons-material";
 // import LanguageIcon from "@mui/icons-material/Language";
-// import LaptopWindowsIcon from "@mui/icons-material/LaptopWindows";
+import LaptopWindowsIcon from "@mui/icons-material/LaptopWindows";
 // import PhoneIphoneIcon from "@mui/icons-material/PhoneIphone";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";

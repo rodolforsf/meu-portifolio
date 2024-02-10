@@ -17,8 +17,8 @@ export const projects = [
     code: "https://github.com/code-cracked/plants-vs-zombies-api",
   },
   {
-    title: "Site de lachonete com carrinho",
-    desc: "Site de uma lanchonete com funcionalidade de carrinho, permitindo que os clientes finalizem seus pedidos e enviem uma mensagem para o WhatsApp. O site é desenvolvido utilizando HTML, Javascript e faz uso do Bootstrap para uma interface responsiva e amigável. Essa abordagem oferece uma experiência intuitiva aos usuários, facilitando a navegação, seleção de itens e conclusão dos pedidos por meio do WhatsApp.s.",
+    title: "Carrinho de Compras Mercado Livre",
+    desc: "",
     tags: [
       {
         name: "Javascript",
@@ -30,8 +30,8 @@ export const projects = [
       },
      ],
     img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Lanchonete-whatsapp.png",
-    link: "https://pedido-whatsapp.vercel.app/",
-    code: "https://github.com/rodolforsf/pedido-whatsapp",
+    link: "https://carrinho-ml-react-i5g8.vercel.app/",
+    code: "https://github.com/rodolforsf/carrinho-ml-react",
   },
   {
     title: "Nttflix",
