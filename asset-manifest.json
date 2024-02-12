@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.474fb438.css",
-    "main.js": "/static/js/main.18649750.js",
+    "main.js": "/static/js/main.c72c2ba5.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/MyImage.webp": "/static/media/MyImage.1ace04b3e7fce43d4f8c.webp",
     "static/media/Rodolfo Resume.pdf": "/static/media/Rodolfo Resume.803c7b77d67f649f1e9b.pdf",
@@ -14,11 +14,11 @@
     "static/media/github.webp": "/static/media/github.ed1c06d925fff0b57e32.webp",
     "index.html": "/index.html",
     "main.474fb438.css.map": "/static/css/main.474fb438.css.map",
-    "main.18649750.js.map": "/static/js/main.18649750.js.map",
+    "main.c72c2ba5.js.map": "/static/js/main.c72c2ba5.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.474fb438.css",
-    "static/js/main.18649750.js"
+    "static/js/main.c72c2ba5.js"
   ]
 }
