@@ -1,11 +1,15 @@
 export const projects = [
   {
-    title: "Tenflyx",
-    desc: "An API built with with NextTS and Tailwind CSS to help website builders build their websites about Plants-vs-Zombies-2 easily! Data has been scraped from fandom websites and all data are  error free",
+    title: "Lachonete Completta",
+    desc: "Um site de lanchonete oferecendo pedidos de lanches, pizzas, bebidas e sobremesas. Desenvolvido em ReactJS e TypeScript.",
     tags: [
       {
-        name: "NextTs",
+        name: "ReactJS",
         color: "red-600",
+      },
+      {
+        name: "TypeScript",
+        color: "yellow-600",
       },
       {
         name: "TailwindCSS",
@@ -13,23 +17,19 @@ export const projects = [
       },
     ],
     img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109025615442608168/pvz.png",
-    link: "https://pvz-2-api.vercel.app/",
-    code: "https://github.com/code-cracked/plants-vs-zombies-api",
+    link: "https://lanchonete-completta.vercel.app//",
+    code: "https://github.com/rodolforsf/minha-lanchonete-completta-main",
   },
   {
     title: "Carrinho de Compras Mercado Livre",
-    desc: "",
+    desc: "Carrinho de compras que se assemelha ao do Mercado Livre. Nesse carrinho, os usuários podem adicionar produtos de interesse e revisar suas seleções. Funciona como uma ferramenta conveniente para gerenciar itens desejados durante a navegação. Essa funcionalidade facilita a experiência de compra, tornando-a mais eficiente e organizada para os usuários.",
     tags: [
       {
-        name: "Javascript",
+        name: "ReactJS",
         color: "red-600",
-      },
-      {
-        name: "BootStrap",
-        color: "green-600",
-      },
+      },  
      ],
-    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Lanchonete-whatsapp.png",
+    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/carrinhoML.png",
     link: "https://carrinho-ml-react-i5g8.vercel.app/",
     code: "https://github.com/rodolforsf/carrinho-ml-react",
   },
