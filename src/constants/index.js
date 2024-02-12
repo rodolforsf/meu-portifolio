@@ -11,12 +11,8 @@ export const projects = [
         name: "TypeScript",
         color: "yellow-600",
       },
-      {
-        name: "TailwindCSS",
-        color: "green-600",
-      },
     ],
-    img: "https://cdn.discordapp.com/attachments/1096426516667174994/1109025615442608168/pvz.png",
+    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Sem%20t%C3%ADtulo.pngg",
     link: "https://lanchonete-completta.vercel.app//",
     code: "https://github.com/rodolforsf/minha-lanchonete-completta-main",
   },
