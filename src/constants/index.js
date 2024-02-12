@@ -12,7 +12,7 @@ export const projects = [
         color: "yellow-600",
       },
     ],
-    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Sem%20t%C3%ADtulo.png",
+    img: "https://raw.githubusercontent.com/rodolforsf/meu-portifolio/main/src/assets/images/Lanchonete-Completta.png",
     link: "https://lanchonete-completta.vercel.app//",
     code: "https://github.com/rodolforsf/minha-lanchonete-completta-main",
   },
