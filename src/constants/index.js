@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Lachonete Completta",
-    desc: "Um site de lanchonete oferecendo pedidos de lanches, pizzas, bebidas e sobremesas. Desenvolvido em ReactJS e TypeScript.",
+    desc: "site da Lanchonete Completta para encontrar uma variedade de lanches, pizzas, bebidas e sobremesas. Adicione facilmente os itens desejados ao seu carrinho de compras e desfrute de uma experiência gastronômica conveniente e deliciosa. De hambúrgueres suculentos a pizzas quentinhas e sobremesas tentadoras, temos opções para todos os gostos. Satisfaça seus desejos culinários hoje mesmo com a Lanchonete Completta!",
     tags: [
       {
         name: "ReactJS",
