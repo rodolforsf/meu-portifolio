@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.474fb438.css",
-    "main.js": "/static/js/main.c72c2ba5.js",
+    "main.css": "/static/css/main.4f2f09ce.css",
+    "main.js": "/static/js/main.4b5b0c3b.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
     "static/media/MyImage.webp": "/static/media/MyImage.1ace04b3e7fce43d4f8c.webp",
-    "static/media/Rodolfo Resume.pdf": "/static/media/Rodolfo Resume.803c7b77d67f649f1e9b.pdf",
+    "static/media/Rodolfo Resume.pdf": "/static/media/Rodolfo Resume.12c8eee2452a09562f73.pdf",
     "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
     "static/media/RobotoSlab-Black.ttf": "/static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
     "static/media/RobotoSlab-Bold.ttf": "/static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
@@ -13,12 +13,12 @@
     "static/media/gotosite.webp": "/static/media/gotosite.dc2459843a8d51a90e5d.webp",
     "static/media/github.webp": "/static/media/github.ed1c06d925fff0b57e32.webp",
     "index.html": "/index.html",
-    "main.474fb438.css.map": "/static/css/main.474fb438.css.map",
-    "main.c72c2ba5.js.map": "/static/js/main.c72c2ba5.js.map",
+    "main.4f2f09ce.css.map": "/static/css/main.4f2f09ce.css.map",
+    "main.4b5b0c3b.js.map": "/static/js/main.4b5b0c3b.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.474fb438.css",
-    "static/js/main.c72c2ba5.js"
+    "static/css/main.4f2f09ce.css",
+    "static/js/main.4b5b0c3b.js"
   ]
 }
